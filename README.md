@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# CCPhotonJSLoadBalancing
+Cocos Creator version of Photon load balancing example
